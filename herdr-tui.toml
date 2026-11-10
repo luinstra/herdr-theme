@@ -1,0 +1,28 @@
+# GitHub Dark (Material) for the herdr TUI (~/.config/herdr/config.toml).
+# The TUI only colors its own chrome; pane contents use your host terminal's
+# colors, so set Material Deep Ocean in the terminal itself.
+
+[theme]
+name = "one-dark"   # base; every token is overridden below
+auto_switch = false
+
+[theme.custom]
+accent        = "#F9826C"
+panel_bg      = "#24292E"  # tab bar, floating panels, modals
+sidebar_bg    = "#1E2428"
+active_row_bg = "#2B3036"
+selection_bg  = "#22374B"
+surface0      = "#2B3036"
+surface1      = "#2F363D"
+surface_dim   = "#24292E"  # separators, scrollbar track
+overlay0      = "#586069"
+overlay1      = "#6A737D"
+text          = "#D1D5DA"
+subtext0      = "#959DA5"
+mauve         = "#B392F0"  # branch names
+green         = "#85E89D"  # done / idle
+yellow        = "#FFAB70"  # working
+red           = "#EA4A5A"  # blocked
+blue          = "#79B8FF"
+teal          = "#56D4DD"
+peach         = "#F97583"  # interrupted
