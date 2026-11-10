@@ -5,6 +5,10 @@ A [Herdr](https://herdr.dev) theme that matches my Sublime and IntelliJ setup:
 - **App UI**: Material GitHub Dark ([github-dark-material-sublime](https://github.com/luinstra/github-dark-material-sublime)). Grey chrome with a coral accent.
 - **Terminals**: Material Deep Ocean ([material-deep-ocean-sublime](https://github.com/luinstra/material-deep-ocean-sublime)). Background, foreground, cursor, selection and the 16 ANSI colors.
 
+## Preview
+
+![GitHub Dark Deep Ocean in Herdr](screenshots/preview.png)
+
 ## Herdr desktop app
 
 ```sh
